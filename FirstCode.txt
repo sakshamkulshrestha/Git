@@ -1,0 +1,9 @@
+Hello World
+Adding More Stuff here 
+A lot more Stuff
+
+adding -a to skip git add step
+
+we can see the changes in the file too
+
+using --staged
